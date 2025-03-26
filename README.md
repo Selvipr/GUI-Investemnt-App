@@ -31,5 +31,5 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository:**
 
    bash
-   git clone https://github.com/yourusername/android-investment-gui.git
-   cd android-investment-gui
+   git clone https://github.com/Selvipr/GUI-Investemnt-App.git
+   cd GUI-Investemnt-App
