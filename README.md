@@ -22,9 +22,12 @@ Welcome to the Android Investment GUI Application repository! This project conta
 
 Before you begin, ensure you have met the following requirements:
 
-- Android Studio installed on your development machine.
+- Android Studio is installed on your development machine.
 - Basic knowledge of Android development (Kotlin/Java) and XML layouts.
 - An emulator or a physical Android device for testing the app.
+### How to get the Source File
+I'm giving the fully accessible Google Drive, like to use the link:https://drive.google.com/drive/folders/12lcPX7y9LOkucVLGccvRoPuHI-ibyVc3?usp=sharing
+And also, I added the drive-like file separately.
 
 ### Installation
 
