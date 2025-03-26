@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 - Android Studio is installed on your development machine.
 - Basic knowledge of Android development (Kotlin/Java) and XML layouts.
 - An emulator or a physical Android device for testing the app.
-### How to get the Source File
+### How to get the Sorce File
 I'm giving the fully accessible Google Drive, like to use the link:https://drive.google.com/drive/folders/12lcPX7y9LOkucVLGccvRoPuHI-ibyVc3?usp=sharing
 And also, I added the drive-like file separately.
 
